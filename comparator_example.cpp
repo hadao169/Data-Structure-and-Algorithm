@@ -2,7 +2,7 @@
 #include <math.h>
 #include <vector>
 
-# sắp xếp theo tần suất xuất hiện giảm dần, nếu frequency == thì săp xếp theo giá trị tăng dần
+//sắp xếp theo tần suất xuất hiện giảm dần, nếu frequency == thì săp xếp theo giá trị tăng dần
 
 using namespace std;
 
