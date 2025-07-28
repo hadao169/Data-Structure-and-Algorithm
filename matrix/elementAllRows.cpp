@@ -5,15 +5,15 @@ using namespace std;
 
 
 int main() {
-	int N = 4;
+	const int N = 4;
 	map<int, int> mp;
 	
 	int a[N][N] = {
-        {1, 2, 2, 3},
-        {1, 3, 2, 4},
-        {1, 4, 3, 2},
+		{1, 2, 2, 3},
+		{1, 3, 2, 4},
+		{1, 4, 3, 2},
 		{2, 2, 3, 1}
-    };
+	};
  
 	for(int i = 0; i < N; i++){
 		for(int j = 0; j < N; j++){
